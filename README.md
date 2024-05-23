@@ -1,5 +1,12 @@
 # HooBank - Modern UI/UX website using React.js & Tailwind CSS
 
+## Live Website link 
+https://modern-bank-app-bhallavbv.netlify.app/
+
+## Based on Figma design
+https://www.figma.com/design/bUGIPys15E78w9bs1l4tgS/HooBank?node-id=310-485
+
+## Screengrabs from deployed website
 ![hero](https://github.com/bhallavbv/bhallavbv/assets/45514004/69f79bad-915c-47d9-a765-e91ae9468677)
 ![business](https://github.com/bhallavbv/modern_bank_app/assets/45514004/26b241e6-acc7-499d-acd1-4aaef9cebec3)
 ![billing invoice](https://github.com/bhallavbv/modern_bank_app/assets/45514004/d732f73c-029d-4b01-b96f-654e1b9a195d)
