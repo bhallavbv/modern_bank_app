@@ -7,9 +7,9 @@ https://modern-bank-app-bhallavbv.netlify.app/
 https://www.figma.com/design/bUGIPys15E78w9bs1l4tgS/HooBank?node-id=310-485
 
 ## Screengrabs from deployed website
-![hero](https://github.com/bhallavbv/bhallavbv/assets/45514004/69f79bad-915c-47d9-a765-e91ae9468677)
-![business](https://github.com/bhallavbv/modern_bank_app/assets/45514004/26b241e6-acc7-499d-acd1-4aaef9cebec3)
-![billing invoice](https://github.com/bhallavbv/modern_bank_app/assets/45514004/d732f73c-029d-4b01-b96f-654e1b9a195d)
-![card deal](https://github.com/bhallavbv/modern_bank_app/assets/45514004/d7c5f489-a161-4406-9e2a-d60ed84d4bac)
-![testimonial clients](https://github.com/bhallavbv/modern_bank_app/assets/45514004/701387d0-422f-4031-aee0-7ecc1cd4c3f8)
-![footer](https://github.com/bhallavbv/modern_bank_app/assets/45514004/966802ec-9534-4d44-999b-1e9ddb9ca10a)
+![hero](https://github.com/user-attachments/assets/76e93d60-f33d-4648-9290-186e24897a0e)
+![business](https://github.com/user-attachments/assets/3860588c-d6e7-479e-9892-fdd9fb24ca33)
+![billing invoice](https://github.com/user-attachments/assets/dca6a348-318c-4775-baf2-fda7580ba686)
+![card deal](https://github.com/user-attachments/assets/fd53c31b-a397-48b8-8d40-01927efa5749)
+![testimonial clients](https://github.com/user-attachments/assets/c9d2cb87-d51e-4dc2-a6ef-5e560027fd5e)
+![footer](https://github.com/user-attachments/assets/904b3275-33ef-4e41-984b-1ae54a404b3d)
